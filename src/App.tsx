@@ -5,7 +5,7 @@ function App() {
   // const root = useDispatch();
   // const test = useSelector((state) => state);
 
-  return <div className="App">gdgd</div>;
+  return <div className="App">app.js다</div>;
 }
 
 export default App;
